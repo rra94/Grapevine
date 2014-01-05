@@ -1,0 +1,13 @@
+c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\bin\Debug\resources.pri
+c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\bin\Debug\AppxManifest.xml
+c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\bin\Debug\App5.build.appxrecipe
+c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\bld\Debug\priconfig.xml.intermediate
+c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\bld\Debug\layout.resfiles.intermediate
+c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\bld\Debug\resources.resfiles.intermediate
+c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\bld\Debug\pri.resfiles.intermediate
+c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\bld\Debug\priconfig.xml
+c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\bld\Debug\layout.resfiles
+c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\bld\Debug\resources.resfiles
+c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\bld\Debug\pri.resfiles
+c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\bld\Debug\LanguageQualifiers.txt
+c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\bld\Debug\ProjectArchitectures.txt

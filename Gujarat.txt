@@ -1,0 +1,17 @@
+{"score": 0.45159689999999997, "sentiment": "positive", "agenda": "narendra modi mukhyamantri scholarship yojana"}
+{"score": 0.5147393, "sentiment": "positive", "agenda": "narendra modi health mukhyamantri amrutam yojana"}
+{"score": 0.20918441, "sentiment": "positive", "agenda": "narendra modi agriculture and animal husbandry"}
+{"score": 0.10565815, "sentiment": "positive", "agenda": "narendra modi SAUNI yojana"}
+{"score": -0.12539470000000003, "sentiment": "positive", "agenda": "narendra modi pucca houses"}
+{"score": 0.216582, "sentiment": "positive", "agenda": "narendra modi garib kalyan melas"}
+{"score": -0.34194885, "sentiment": "negative", "agenda": "narendra modi employment"}
+{"score": 0.4302416, "sentiment": "positive", "agenda": "narendra modi gujarat green state"}
+{"score": 0.29330318, "sentiment": "positive", "agenda": "narendra modi chiranjeevi scheme"}
+{"score": 0.5032909, "sentiment": "positive", "agenda": "narendra modi khel mahakumbh"}
+{"score": 0.11657908, "sentiment": "positive", "agenda": "narendra modi annapurna yojana"}
+{"score": 0.4715936000000001, "sentiment": "positive", "agenda": "narendra modi energy sources"}
+{"score": 0.01701085, "sentiment": "negative", "agenda": "narendra modi drinking water"}
+{"score": 0.26714814, "sentiment": "positive", "agenda": "narendra modi urban development"}
+{"score": 0.45958099999999996, "sentiment": "positive", "agenda": "narendra modi infrastructure"}
+{"score": 0.4403408000000001, "sentiment": "positive", "agenda": "narendra modi tourism gujarat"}
+{"score": 0.23379341999999997, "sentiment": "positive", "agenda": "narendra modi right to services ac"}

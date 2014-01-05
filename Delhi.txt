@@ -1,0 +1,16 @@
+{"score": 0.10302905000000001, "sentiment": "positive", "agenda": "aam aadmi party delhi jan lokpal bill"}
+{"score": 0.13493195, "sentiment": "positive", "agenda": "aam aadmi party swaraj"}
+{"score": -0.008265899999999996, "sentiment": "negative", "agenda": "aam aadmi party electricity"}
+{"score": 0.0192926, "sentiment": "negative", "agenda": "aam aadmi party water"}
+{"score": 0.05698091995, "sentiment": "positive", "agenda": "aam aadmi party sanitation and waste management"}
+{"score": 0.19490230000000003, "sentiment": "positive", "agenda": "aam aadmi party women's security"}
+{"score": 0.16085035000000003, "sentiment": "positive", "agenda": "aam aadmi party education"}
+{"score": 0.2403999, "sentiment": "positive", "agenda": "aam aadmi party health"}
+{"score": 0.16726153994999998, "sentiment": "positive", "agenda": "aam aadmi party delhi's villages"}
+{"score": 0.07830843995, "sentiment": "positive", "agenda": "aam aadmi party unauthorised colonies"}
+{"score": 0.20717335, "sentiment": "positive", "agenda": "aam aadmi party slums"}
+{"score": -0.005576330050000006, "sentiment": "positive", "agenda": "aam aadmi party inflation and unemployment"}
+{"score": -0.013958399999999972, "sentiment": "positive", "agenda": "aam aadmi party economic issues"}
+{"score": 0.11266124999999999, "sentiment": "positive", "agenda": "aam aadmi party transport"}
+{"score": -0.058808295, "sentiment": "positive", "agenda": "aam aadmi party environment"}
+{"score": -0.11799661, "sentiment": "negative", "agenda": "aam aadmi party social injustice"}

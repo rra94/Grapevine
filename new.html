@@ -1,0 +1,15 @@
+<html>
+<head>
+<input type="file" id="fileinput" />
+<script type="text/javascript">
+  var fso = new ActiveXObject("Scripting.FileSystemObject");
+var txtFile = fso.OpenTextFile("C:\\Users\\Shehzad\\Desktop\\Delhi.txt", 1, false, 0);
+var fText = txtFile.Read(1000);
+txtFile.Close();
+fso = null;
+</script>
+</head>
+<body>
+Hello
+</body>
+</html>

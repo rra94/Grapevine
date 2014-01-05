@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>IGUANA</Machine>
+    <WindowsUser>Shehzad</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>86AB5871C48F84ECA0A64977A436E59C6F650B9EC25CDF18E064880A0B2B8896</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>45ae7b86-b27e-4833-b68a-7c5843245980_1.0.0.0_neutral__7shd4980k5ar6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>45ae7b86-b27e-4833-b68a-7c5843245980_7shd4980k5ar6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>45ae7b86-b27e-4833-b68a-7c5843245980</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Shehzad</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-05T06:19:03.345</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2014-01-05T06:38:03.409</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\page.html">
+      <PackagePath>page.html</PackagePath>
+      <Modified>2014-01-05T02:36:02.080</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\page1.html">
+      <PackagePath>page1.html</PackagePath>
+      <Modified>2014-01-05T06:38:03.402</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\page2.html">
+      <PackagePath>page2.html</PackagePath>
+      <Modified>2014-01-05T06:38:00.448</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\images\aap.jpg">
+      <PackagePath>images\aap.jpg</PackagePath>
+      <Modified>2014-01-05T05:26:57.188</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\images\bjp.jpg">
+      <PackagePath>images\bjp.jpg</PackagePath>
+      <Modified>2014-01-05T05:59:46.012</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\images\grape.jpg">
+      <PackagePath>images\grape.jpg</PackagePath>
+      <Modified>2014-01-05T06:17:09.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\images\map.jpg">
+      <PackagePath>images\map.jpg</PackagePath>
+      <Modified>2014-01-05T04:46:58.090</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-27T19:55:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-27T19:55:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-27T19:55:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-27T19:55:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2012-12-30T14:07:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\js\script.js">
+      <PackagePath>js\script.js</PackagePath>
+      <Modified>2014-01-05T01:39:06.846</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\js\script1.js">
+      <PackagePath>js\script1.js</PackagePath>
+      <Modified>2014-01-05T01:40:02.115</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\css\css1.css">
+      <PackagePath>css\css1.css</PackagePath>
+      <Modified>2014-01-05T01:35:33.616</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\stylesheet.css">
+      <PackagePath>stylesheet.css</PackagePath>
+      <Modified>2014-01-05T01:36:56.455</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\shehzad\documents\visual studio 2012\Projects\App5\App5\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-01-05T06:19:03.219</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20602</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20602</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
